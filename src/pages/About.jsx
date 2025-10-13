@@ -10,12 +10,12 @@ function About() {
             <p className="text-xl text-gray-300 mb-8 max-w-2xl md:text-justify">
               Passionate about creating beautiful, user-friendly web experiences
               with modern technologies. I love turning ideas into interactive
-              digital solutions.
+              digital solutions. 
             </p>
           </div>
           <div className="flex justify-center items-center order-1 md:order-2 md:mb-0 md:pl-20">
             <img
-              src="../assets/WhatsApp Image 2024-09-21 at 09.00.15_9ac5a827.jpg"
+              src="src/assets/WhatsApp Image 2024-09-21 at 09.00.15_9ac5a827.jpg"
               alt="Profile"
               className="w-48 h-48 md:w-80 md:h-80 rounded-full border-4 border-gray-700 shadow-md object-cover"
             />
