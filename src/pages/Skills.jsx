@@ -1,4 +1,4 @@
-import SkillCard from "../components/skillcard";
+import SkillCard from "../components/SkillCard";
 import { MockData } from "../data/mock";
 
 function SkillSection() {
