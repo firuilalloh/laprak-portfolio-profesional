@@ -1,3 +1,5 @@
+import photo from "../assets/WhatsApp Image 2024-09-21 at 09.00.15_9ac5a827.jpg";
+
 function About() {
   return (
     <section id="about">
@@ -15,7 +17,7 @@ function About() {
           </div>
           <div className="flex justify-center items-center order-1 md:order-2 md:mb-0 md:pl-20">
             <img
-              src="src/assets/WhatsApp Image 2024-09-21 at 09.00.15_9ac5a827.jpg"
+              src={photo}
               alt="Profile"
               className="w-48 h-48 md:w-80 md:h-80 rounded-full border-4 border-gray-700 shadow-md object-cover"
             />
