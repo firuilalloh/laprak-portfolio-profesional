@@ -1,4 +1,4 @@
-import ProjectCard from "../components/ProjectCard";
+import ProjectCard from "../components/projectard";
 import { MockData } from "../data/mock";
 
 function Projects() {
