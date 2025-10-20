@@ -1,5 +1,5 @@
-import ProjectCard from "../components/projectcard.jsx";
-import { MockData } from "../data/mock";
+import ProjectCard from "../components/ProjectCard.jsx";
+import { MockData } from "../data/mock.js";
 
 function Projects() {
   return (
